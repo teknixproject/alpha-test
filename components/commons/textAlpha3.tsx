@@ -15,7 +15,7 @@ const Text = ({ data, style }: TextProps) => {
 
   return (
     <div style={newStyle} className="text-[#858585]">
-      {title}
+      {title} 123
     </div>
   );
 };
