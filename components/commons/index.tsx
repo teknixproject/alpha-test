@@ -14,4 +14,5 @@ export const components = {
   title_header: dynamic(() => import('./titleHeader')),
   title_header_gradient: dynamic(() => import('./titleHeaderGradient')),
   text_custom: dynamic(() => import("./textCustom")),
+  text_alpha: dynamic(() => import("./textAlpha")),
 };
