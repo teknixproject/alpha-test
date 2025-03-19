@@ -19,4 +19,5 @@ export const components = {
   text_alpha2: dynamic(() => import("./textAlpha2")),
   text_alpha3: dynamic(() => import("./textAlpha3")),
   text_alpha1_about: dynamic(() => import("./textAlpha1About")),
+  button_aplpha_test: dynamic(() => import("./buttonAplphaTest")),
 };
