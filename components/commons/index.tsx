@@ -21,4 +21,5 @@ export const components = {
   text_alpha1_about: dynamic(() => import("./textAlpha1About")),
   button_aplpha_test: dynamic(() => import("./buttonAplphaTest")),
   button_red: dynamic(() => import("./buttonRed")),
+  button_information: dynamic(() => import("./buttonInformation")),
 };
