@@ -22,4 +22,5 @@ export const components = {
   button_aplpha_test: dynamic(() => import("./buttonAplphaTest")),
   button_red: dynamic(() => import("./buttonRed")),
   button_information: dynamic(() => import("./buttonInformation")),
+  _icon_ini: dynamic(() => import("./IconIni")),
 };
